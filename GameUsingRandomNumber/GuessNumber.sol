@@ -31,3 +31,5 @@ contract GuessNumberGame {
         emit WinningStatus(randNumb, msg.sender, "You have Lose");
     }
 }
+
+//** add VRF contract address  consumer in Chainlink then to use it */
